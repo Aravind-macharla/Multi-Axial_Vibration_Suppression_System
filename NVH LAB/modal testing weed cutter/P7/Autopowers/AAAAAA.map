@@ -1,0 +1,36 @@
+# LMS Test.Lab project-17A
+#
+# Test.Lab Point ID versus UF node number mapping table
+#
+# Universal file    Test.Lab point ID
+#   node tag           "comp:node"
+# --------------    ---------------
+      10001          PIPE:P1
+      10002          PIPE:P2
+      10003          PIPE:P3
+      10004          PIPE:P4
+      10005          PIPE:P5
+      10006          PIPE:P6
+      10007          PIPE:P7
+      10008          PIPE:P8
+      10009          PIPE:P9
+      10010         PIPE:P10
+      10011         PIPE:P11
+      10012         PIPE:P12
+      10013         PIPE:P13
+      10014         PIPE:P14
+      10015         PIPE:P15
+      10016         PIPE:P16
+      10017         PIPE:P17
+      10018         PIPE:P18
+      10019         PIPE:P00
+      20020        HANDLE:HO
+      20021        HANDLE:H1
+      20022        HANDLE:H2
+      20023        HANDLE:H3
+      20024        HANDLE:H4
+      20025        HANDLE:H5
+      20026        HANDLE:H6
+      30027          HEAD:H1
+      40028         MOTOR:M1
+      40029         MOTOR:M2
