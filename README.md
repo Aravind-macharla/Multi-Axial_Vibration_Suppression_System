@@ -15,3 +15,4 @@ and Z axes. The results demonstrate that a compact, low-mass absorber (0.10 kg) 
 harmful vibrations without altering the trimmer’s primary structure.
 The study highlights the applicability of tuned passive absorbers in portable power tools and provides a
 framework for future optimization in absorber geometry, material selection, and adaptive tuning. 
+https://github.com/Aravind-macharla/Multi-Axial_Vibration_Suppression_System/blob/b935c2265217394c35ef67d281bf9a4d1bf9a412/btp.jpg
